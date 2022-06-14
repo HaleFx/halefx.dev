@@ -1,4 +1,3 @@
-# HaleFx
 I'm a creative problem-solver with an interest in semantic web development.
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/halefx).
@@ -12,3 +11,5 @@ You can contact me on [LinkedIn](https://www.linkedin.com/in/halefx).
 $var = 500;
 print "hello":
 ```
+
+[Contact Test](contact-test.md)

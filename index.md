@@ -7,10 +7,8 @@ You can contact me on [LinkedIn](https://www.linkedin.com/in/halefx).
 - Default Argument
 
     This is the code for a default argument
-```php
+```injectablephp
 <?php
 $var = 500;
 print "hello":
-
 ```
-- 
